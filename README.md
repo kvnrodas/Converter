@@ -1,3 +1,21 @@
+#Description
+
+"In my project, I created a basic application using Java that can convert both currency and temperature. I used the Swing library for the graphical user interface.
+
+For the Currency Converter:
+
+The user inputs the amount they want to convert and selects the currencies, like from USD to EUR.
+I fetch the exchange rates from an online API using HttpClient. This allows the application to use real-time exchange rates.
+Once the exchange rate is retrieved, the program multiplies it by the amount the user entered, and then it shows the result.
+If the user enters an invalid currency code or amount, the program gives a simple error message, guiding them to enter valid information.
+For the Temperature Converter:
+
+The user selects the type of conversion, such as from Celsius to Fahrenheit or Kelvin to Rankine.
+I used simple math formulas to handle the temperature conversion based on the user's choice.
+Like the currency converter, the result is displayed to the user through a dialog box.
+Overall, this project taught me how to handle user input, make API calls in Java, and work with different libraries. It also helped me understand error handling and presenting data in a user-friendly way. Even though it’s a basic project, I gained experience in connecting to APIs, processing data, and building an interactive UI."
+
+
 # Currency and Temperature Converter
 
 This Java project provides two converters: one for currency and another for temperature.
