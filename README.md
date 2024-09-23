@@ -1,4 +1,4 @@
-#Description
+# Currency and Temperature Description
 
 "In my project, I created a basic application using Java that can convert both currency and temperature. I used the Swing library for the graphical user interface.
 
