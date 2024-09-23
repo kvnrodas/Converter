@@ -16,10 +16,6 @@ Like the currency converter, the result is displayed to the user through a dialo
 Overall, this project taught me how to handle user input, make API calls in Java, and work with different libraries. It also helped me understand error handling and presenting data in a user-friendly way. Even though it’s a basic project, I gained experience in connecting to APIs, processing data, and building an interactive UI."
 
 
-# Currency and Temperature Converter
-
-This Java project provides two converters: one for currency and another for temperature.
-
 ## Features
 
 - **Currency Converter:** Convert currency values between various international currencies using the [ExchangeRate-API](https://www.exchangerate-api.com/).
